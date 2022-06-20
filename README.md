@@ -18,3 +18,5 @@ ensuite aller a  demarer le projet spring Boot
 
 Allew a l url pour voir les donnees http://localhost:9001/siret/list
 
+
+<img width="784" alt="JSonOBJE" src="https://user-images.githubusercontent.com/32837077/174637424-d5fa2f2d-a980-48ef-b161-6fca6cfd5f63.PNG">
