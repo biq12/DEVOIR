@@ -1,10 +1,15 @@
 # DEVOIR
 
-GIT SIRET SERVICE C EST LE PROJET PRINCIPAL 
-LES AUTRES SOUS PROJET SONT DES ELEMENT DE L A RCHITECTURE MICROSERVICE  GATEWAY 
+Siret service est le projet principal 
+
+les autres sous projet sont les composant de l architecture microservice
 
 
-POUR DEMARER LE PROJET IL SUFIT MVN CLEAN INSTALL DANS LE PROJET SIRET-SERVICE 
+Pour demarrer le projet il suffit  de 
+
+Installer les dependencies via :
+
+MVN CLEAN INSTALL pour le projet siret-service
 
 Creer un ficheir dans C/tests/test.csv
 
